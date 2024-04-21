@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="images/project.png" alt="Screenshot" />
-
 </div>
 
 ## ⚙️ Stack
