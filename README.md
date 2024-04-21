@@ -1,6 +1,8 @@
 
 <div align="center">
 
+<img src="images/edu-project.png" alt="Screenshot" />
+
 </div>
 
 ## ⚙️ Stack
